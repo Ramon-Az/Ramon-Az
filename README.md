@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ramon-Az
+- 👋 Hi, I’m Ramon Azevedo
 - 👀 I’m interested in machine learn
 - 🌱 I’m currently learning cloud programation
 - 💞️ I’m looking to collaborate on python, html and datas analysis
