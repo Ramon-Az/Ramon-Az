@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramon Azevedo
-- 👀 I’m interested in machine learn
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning cloud programation
-- 💞️ I’m looking to collaborate on python and datas analysis
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in ramon.azvdo@gmail.com
 
 <!---
